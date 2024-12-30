@@ -1,0 +1,12 @@
+# IDEs and editors
+.vscode/
+.idea/
+
+# mac shit
+.DS_Store
+
+# windows image caches
+Thumbs.db
+
+# .env
+backend/.env
