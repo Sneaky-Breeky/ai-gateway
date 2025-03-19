@@ -1,5 +1,5 @@
-export const BASE_URL = '/app/dashboard/default';
-export const BASE_TITLE = ' | Datta Able Free React Hooks + Admin Template';
+export const BASE_URL = '/main';
+export const BASE_TITLE = ' | Best AI Gateway';
 
 export const CONFIG = {
   layout: 'vertical'

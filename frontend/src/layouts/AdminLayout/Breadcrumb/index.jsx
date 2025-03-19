@@ -47,7 +47,7 @@ const Breadcrumb = () => {
       </ListGroup.Item>
     );
   }
-
+  
   if (item && item.type === 'item') {
     title = item.title;
     itemContent = (
